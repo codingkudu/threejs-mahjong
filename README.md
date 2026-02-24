@@ -16,3 +16,7 @@ Really built with AI. Something to demostrate AI to my nephew with.
 ## Run Locally
 
 Open `index.html` in your browser. No build step or server needed.
+
+## See it in github page
+
+https://codingkudu.github.io/threejs-mahjong/
